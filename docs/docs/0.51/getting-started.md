@@ -243,8 +243,10 @@ brew install git
 
 1. 下载和安装[Genymotion](https://www.genymotion.com/download)（genymotion需要依赖VirtualBox虚拟机，下载选项中提供了包含VirtualBox和不包含的选项，请按需选择）。
 2. 打开Genymotion。如果你还没有安装VirtualBox，则此时会提示你安装。
-3. 创建一个新模拟器并启动。
-4. 启动React Native应用后，可以按下⌘+M来打开开发者菜单。
+3. 打开Genymotion后，进入Settings - ADB 设置SDK路径
+4. 创建一个新模拟器并启动。
+5. 启动React Native应用后，可以按下⌘+M来打开开发者菜单。
+
 
 </div>
 <div markdown class="md-block linux windows android">
